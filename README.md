@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **backend and devops**
 
-- 💬 Ask me about **frontend**
+- 💬 Ask me about **frontend and Devops**
 
 - 📫 How to reach me **sonisuchit144@gmail.com**
 
