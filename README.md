@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/suchit1010" target="blank"><img src="https://img.shields.io/twitter/follow/suchit1010?logo=twitter&style=for-the-badge" alt="suchit1010" /></a> </p>
 
-- 🔭 I’m currently working on [frontend project](http://projectsindia.xyz/kasper-group/kasper-genesis.php)
+- 🔭 I’m currently working on [frontend project](http://projectsindia.xyz/kasper-group/kasper-genesis.php) with Tejas Modi
 
 - 🌱 I’m currently learning **frontend development**
 
