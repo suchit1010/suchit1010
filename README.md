@@ -1,32 +1,18 @@
-<h1 align="center">Hi 👋, I'm Suchit Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm SUCHIT SONI</h1>
+<h3 align="center">A passionate Website developer & Devops Learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suchit1010&label=Profile%20views&color=0e75b6&style=flat" alt="suchit1010" /> </p>
+<div align="center">
+I am a collaborative **website** and  **DevOps**  developer.I am specialize in **Frontend Web developer**. Good in HTML,CSS,Boot Strape, JavaScript and to build Intractive & Responsive Website. Seeking to become a Web3 Developer and reveal the unlimited potential of web development with reputed organization. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchit1010" alt="suchit1010" /></a> </p>
+### My goal is to learn and contribute more & more to build better world for next generation.
+</div>
 
-<p align="left"> <a href="https://twitter.com/suchit1010" target="blank"><img src="https://img.shields.io/twitter/follow/suchit1010?logo=twitter&style=for-the-badge" alt="suchit1010" /></a> </p>
 
-- 🔭 I’m currently working on [frontend project](http://projectsindia.xyz/kasper-group/kasper-genesis.php) with Tejas Modi
+<!-- ![RahulYoutube01](https://user-images.githubusercontent.com/101723031/187357459-4676f439-31c3-4b09-a82a-709f07e1e15f.png)
 
-- 🌱 I’m currently learning **frontend development**
-
-- 👯 I’m looking to collaborate on **open source contribution**
-
-- 🤝 I’m looking for help with **backend and devops**
-
-- 💬 Ask me about **frontend**
-
-- 📫 How to reach me **sonisuchit144@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suchit1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suchit1010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soni-suchit-945a73196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soni-suchit-945a73196" height="30" width="40" /></a>
+ -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rahul-prasad-07&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-prasad-07" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suchit1010&show_icons=true&locale=en" alt="suchit1010" /></p>
-
+<p align="left"> <a href="https://twitter.com/@suchit1010" target="blank"><img src="https://img.shields.io/twitter/follow/rahultwte?logo=twitter&style=for-the-badge" alt="@suchit1010" /></a> </p>
