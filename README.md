@@ -12,7 +12,7 @@ I am a collaborative **website** and  **DevOps**  developer.I am specialize in *
 
  -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rahul-prasad-07&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-prasad-07" /> 
+  <img src="https://komarev.com/ghpvc/?username=suchit1010&label=Profile%20views&color=0e75b6&style=flat" alt="suchit1010" /> 
 </p>
 
-<p align="left"> <a href="https://twitter.com/@suchit1010" target="blank"><img src="https://img.shields.io/twitter/follow/rahultwte?logo=twitter&style=for-the-badge" alt="@suchit1010" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@suchit1010" target="blank"><img src="https://img.shields.io/twitter/follow/suchit1010?logo=twitter&style=for-the-badge" alt="@suchit1010" /></a> </p>
